@@ -1,0 +1,16 @@
+* {
+    background: #0400ff; 
+    color: aliceblue;
+}
+
+h1 {
+    background: whitesmoke;
+    color: red;
+    font-size: 3rem;
+    text-align: center;
+}
+h1:hover {
+    color: blue;
+    background: black;
+    font-size: 2rem;
+}
